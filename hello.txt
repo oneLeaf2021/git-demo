@@ -11,3 +11,8 @@ hello
 hello
 hello  master test
 hello
+<<<<<<< HEAD
+=======
+hello hot-fix test
+
+>>>>>>> hot-fix
